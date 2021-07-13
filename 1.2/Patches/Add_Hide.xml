@@ -421,7 +421,9 @@
 				<xpath>Defs/PawnKindDef [defName = "Panther"]/lifeStages/li[2]</xpath>
 				<value>
 					<butcherProducts>
+						<bodyPartGroup>HeadAttackTool</bodyPartGroup>
 						<DankPyon_Hide_Panther>1</DankPyon_Hide_Panther>
+						<allowFemale>true</allowFemale>
 					</butcherProducts>
 				</value>
 			</li>
@@ -430,7 +432,9 @@
 				<xpath>Defs/PawnKindDef [defName = "Cougar"]/lifeStages/li[2]</xpath>
 				<value>
 					<butcherProducts>
+						<bodyPartGroup>HeadAttackTool</bodyPartGroup>
 						<DankPyon_Hide_Cougar>1</DankPyon_Hide_Cougar>
+						<allowFemale>true</allowFemale>
 					</butcherProducts>
 				</value>
 			</li>
@@ -439,7 +443,9 @@
 				<xpath>Defs/PawnKindDef [defName = "Megasloth"]/lifeStages/li[2]</xpath>
 				<value>
 					<butcherProducts>
+						<bodyPartGroup>HeadAttackTool</bodyPartGroup>
 						<DankPyon_Hide_Megasloth>1</DankPyon_Hide_Megasloth>
+						<allowFemale>true</allowFemale>
 					</butcherProducts>
 				</value>
 			</li>
@@ -448,7 +454,9 @@
 				<xpath>Defs/PawnKindDef [defName = "Elephant"]/lifeStages/li[//thing = "ElephantTusk"]</xpath>
 				<value>
 					<butcherProducts>
+						<bodyPartGroup>HeadAttackTool</bodyPartGroup>
 						<DankPyon_Hide_Elephant>1</DankPyon_Hide_Elephant>
+						<allowFemale>true</allowFemale>
 					</butcherProducts>
 				</value>
 			</li>
@@ -457,7 +465,9 @@
 				<xpath>Defs/PawnKindDef [defName = "Rhinoceros"]/lifeStages/li[2]</xpath>
 				<value>
 					<butcherProducts>
+						<bodyPartGroup>HeadAttackTool</bodyPartGroup>
 						<DankPyon_Hide_Rhinoceros>1</DankPyon_Hide_Rhinoceros>
+						<allowFemale>true</allowFemale>
 					</butcherProducts>
 				</value>
 			</li>
@@ -466,8 +476,8 @@
 				<xpath>Defs/PawnKindDef [defName = "Muffalo"]/lifeStages/li[2]</xpath>
 				<value>
 					<butcherBodyPart>
-						<bodyPartGroup>Torso</bodyPartGroup>
-						<thing>DankPyon_Hide_Muffalo</thing>
+						<bodyPartGroup>HeadAttackTool</bodyPartGroup>
+						<DankPyon_Hide_Muffalo>1</DankPyon_Hide_Muffalo>
 						<allowFemale>true</allowFemale>
 					</butcherBodyPart>
 				</value>
@@ -477,7 +487,9 @@
 				<xpath>Defs/PawnKindDef [defName = "Bison"]/lifeStages/li[2]</xpath>
 				<value>
 					<butcherProducts>
+						<bodyPartGroup>HeadAttackTool</bodyPartGroup>
 						<DankPyon_Hide_Bison>1</DankPyon_Hide_Bison>
+						<allowFemale>true</allowFemale>
 					</butcherProducts>
 				</value>
 			</li>
@@ -486,7 +498,9 @@
 				<xpath>Defs/PawnKindDef [defName = "Bear_Grizzly"]/lifeStages/li[2]</xpath>
 				<value>
 					<butcherProducts>
+						<bodyPartGroup>HeadAttackTool</bodyPartGroup>
 						<DankPyon_Hide_BearGrizzly>1</DankPyon_Hide_BearGrizzly>
+						<allowFemale>true</allowFemale>
 					</butcherProducts>
 				</value>
 			</li>
@@ -495,7 +509,9 @@
 				<xpath>Defs/PawnKindDef [defName = "Thrumbo"]/lifeStages/li[//thing = "ThrumboHorn"]</xpath>
 				<value>
 					<butcherProducts>
+						<bodyPartGroup>HeadAttackTool</bodyPartGroup>
 						<DankPyon_Hide_Thrumbo>1</DankPyon_Hide_Thrumbo>
+						<allowFemale>true</allowFemale>
 					</butcherProducts>
 				</value>
 			</li>
@@ -504,7 +520,9 @@
 				<xpath>Defs/ThingDef[defName = "Human"]</xpath>
 				<value>
 					<butcherProducts>
+						<bodyPartGroup>HeadAttackTool</bodyPartGroup>
 						<DankPyon_Hide_Human>1</DankPyon_Hide_Human>
+						<allowFemale>true</allowFemale>
 					</butcherProducts>
 				</value>
 			</li>
